@@ -76,6 +76,6 @@
 
 # Copyright and License
 
-- tournament_test.py supplied without rights information, contributed by Udacity.
+- tournament.py supplied without rights information, contributed by Udacity.
 
 - Remaining code by Edward Bryant is offered under a Creative Commons Attribution 4.0 International License.
