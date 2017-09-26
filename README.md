@@ -73,3 +73,9 @@
 - spinach = session.query(MenuItem).filter_by(name = 'Spinach Ice Cream').one()
 - session.delete(spinach)
 - session.commit() 
+
+# Copyright and License
+
+- tournament_test.py supplied without rights information, contributed by Udacity.
+
+- Remaining code by Edward Bryant is offered under a Creative Commons Attribution 4.0 International License.
