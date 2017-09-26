@@ -1,6 +1,6 @@
 # Udacity Project Tournament
 - Install Vagrant and VirtualBox and ssh cleint
-  ** To download vegrant the intruction go on this link("https://www.sitepoint.com/getting-started-vagrant-windows/")
+  ** To download vegrant the intruction go on this link [Click Here](https://www.sitepoint.com/getting-started-vagrant-windows/)
 
 - Clone the fullstack-nanodegree-vm repository
 - Launch the Vagrant VM
