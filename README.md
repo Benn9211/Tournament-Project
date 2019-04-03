@@ -31,7 +31,6 @@
 >> session.commit()
 
 # READ We read out information in our database using the query method in SQLAlchemy:
-
 - firstResult = session.query(Restaurant).first()
 > firstResult.name
 
